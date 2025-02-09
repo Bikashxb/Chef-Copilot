@@ -15,7 +15,7 @@ To run this project, you will need to add the following environment variables to
 **1️⃣ Add Ingredients**
 ![Add Ingredients](screenshots/header.png)
 
-**2️⃣ Hit Get Recipe**
+**2️⃣ Hit Get a Recipe**
 ![Hit Get Recipe](screenshots/Ingredients.png)
 
 **3️⃣ Cooking Recipe**
