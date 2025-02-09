@@ -1,0 +1,10 @@
+.recipeAI {
+    color: #475467;
+    line-height: 28px;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+.recipeAI ul li, .recipeAI ol li {
+    margin-bottom: 8px;
+}
