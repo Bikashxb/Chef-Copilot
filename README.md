@@ -13,16 +13,16 @@ To run this project, you will need to add the following environment variables to
 ## Flow (screenshots)
 
 **1️⃣ Add Ingredients**
-![Add Ingredients](header.png)
+![Add Ingredients](screenshots/header.png)
 
 **2️⃣ Hit Get Recipe**
-![Hit Get Recipe](Ingredients.png)
+![Hit Get Recipe](screenshots/Ingredients.png)
 
 **3️⃣ Cooking Recipe**
-![Cooking Recipe](Cooking.png)
+![Cooking Recipe](screenshots/Cooking.png)
 
 **4️⃣ AI Recipe Response**
-![AI Recipe Response](result.png)
+![AI Recipe Response](screenshots/result.png)
 
 ## Future Tasks
 
